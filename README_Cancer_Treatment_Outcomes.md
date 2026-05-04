@@ -182,7 +182,7 @@ This dataset is synthetically generated for educational purposes. It is inspired
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
+**[Maryam Quraishy]**  
 Data Science Course — Final Project  
 Week 8 Submission
 
